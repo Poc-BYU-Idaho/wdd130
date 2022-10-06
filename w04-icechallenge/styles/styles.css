@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+h1 {
+    font: tahoma;
+    color: white;
+}
+h3 {
+    color: white;
+}
+img {
+    width: 15%;
+}
+p {
+    font: arial;
+    color: white;
+}
+.para {
+    width: 20%;
+    margin: 0 auto;
+}
+footer p {
+    color: black;
+}
