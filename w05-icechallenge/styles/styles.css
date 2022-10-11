@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: gray;
+}
+header img {
+    width: 100%;
+}
+main {
+    padding: 50px;
+    text-align: center;
+}
+main img{
+    width: 20%;
+    border: #524744 solid 15px;
+    border-radius: 50%;
+    margin: 50px;
+}
